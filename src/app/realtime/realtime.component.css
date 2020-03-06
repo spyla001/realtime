@@ -1,0 +1,14 @@
+.text{
+  padding: 2rem 2rem;
+  border: 1px solid green;
+}
+
+.center {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.jumbotron {
+  padding-right: 10rem;
+}
